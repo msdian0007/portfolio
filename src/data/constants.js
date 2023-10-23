@@ -266,7 +266,7 @@ export const projects = [
       "https://s3.ap-south-1.amazonaws.com/msdian0007-doc.js-landing-image/Screenshot+(58).png",
     tags: ["React.js", "Redux/Toolkit", "HTML", "CSS", "TailwindCSS", "Material UI",],
     category: "web app",
-    github: "https://msdian0007.github.io/doc.js/",
+    github: "https://github.com/msdian0007/doc.js",
     webapp: "https://msdian0007.github.io/doc.js/",
   },
   {
