@@ -8,7 +8,7 @@ export const Bio = {
   description:
     "I'm a seasoned MERN Stack Developer with expertise in MongoDB, Express.js, React.js, and Node.js. With 2-years of hands-on experience, I specialize in creating high-performance web applications and user-friendly interfaces. Let's connect to explore new opportunities in web development and tech innovation.",
   github: "https://github.com/msdian0007",
-  resume: "https://drive.google.com/file/d/11S8CNdDY5kELRG-fYbhFumVNuPZreh2d/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1HUo3uLyzorruRBBIB1cJZPlR7hLo8fcK/view",
   linkedin: "https://www.linkedin.com/in/mohasin-attar-7b6471121",
   twitter: "/",
   insta: "/",
