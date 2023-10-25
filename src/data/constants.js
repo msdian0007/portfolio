@@ -198,7 +198,7 @@ export const experiences = [
     date: "Feb 2022 - Oct 2022",
     desc: "I successfully completed a Frontend Developer internship from July 2021 to October 2022, where I honed my skills in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React JS. During this period, I leveraged these technologies to create compelling static websites, including e-commerce landing pages, showcasing my proficiency in web development.",
     skills: [
-      "HTML",
+      "HTML5",
       "CSS",
       "Bootstrap",
       "TailwindCSS",
