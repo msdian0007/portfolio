@@ -262,7 +262,7 @@ export const projects = [
     title: "Barnd Factory",
     date: "Oct 2023",
     description:
-      "Streamline business with the powerful invoice and quotation generator app. Create professional invoices and quotes in minutes, with customizable templates and easy-to-use features. Simplify the billing process and improve productivity with this user-friendly app.",
+      "Meet Brand Factory – the React.js-powered ecommerce app that offers a responsive shopping experience. Combining user-friendly design with efficient state management.",
     image:
       "https://ecom-web-app-landing-page-view.s3.eu-north-1.amazonaws.com/Screenshot+(77).png",
     tags: ["React.js", "Reduxjs/Tookit", "HTML", "CSS", "fakestoreapi"],
@@ -275,7 +275,7 @@ export const projects = [
     title: "Doc.js",
     date: "Jan 2023",
     description:
-      "Streamline business with the powerful invoice and quotation generator app. Create professional invoices and quotes in minutes, with customizable templates and easy-to-use features. Simplify the billing process and improve productivity with this user-friendly app.",
+      "Made with React.js and Redux Toolkit, this app easily creates invoices and quotes, making business paperless.",
     image:
       "https://s3.ap-south-1.amazonaws.com/msdian0007-doc.js-landing-image/Screenshot+(58).png",
     tags: ["React.js", "Redux/Toolkit", "HTML", "CSS", "TailwindCSS", "Material UI",],
@@ -288,7 +288,7 @@ export const projects = [
     title: "Keeper",
     date: "Jan 2022",
     description:
-      "Streamline business with the powerful invoice and quotation generator app. Create professional invoices and quotes in minutes, with customizable templates and easy-to-use features. Simplify the billing process and improve productivity with this user-friendly app.",
+      "Meet Keeper – the React.js-powered to-do app that simplifies your task management.",
     image:
       "https://keeper-app-landing-page.s3.eu-north-1.amazonaws.com/Screenshot+(78).png",
     tags: ["React.js", "Reduxjs/Tookit", "HTML", "CSS", "uuid", "font-awesome", "Context"],
