@@ -152,10 +152,10 @@ export const experiences = [
   {
     id: 1,
     img: "data:image/jpeg;base64,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",
-    role: "Web Application Developer",
+    role: "Programmer Analyst",
     company: "Globalion Technology Solutions LLP",
     date: "Feb 2022 - Present",
-    desc: "Our dedicated team crafted an ecommerce web app using a robust tech stack, including React.js, Next.js, Express, Node.js, and MongoDB. Following agile methodology and utilizing Jira boards, we ensured efficient project management, enabling rapid development and adaptability. Our solution empowers businesses with seamless online shopping experiences, intuitive navigation, and secure transactions, all backed by a scalable and efficient backend infrastructure.The use of Next.js allowed for lightning-fast page loading and optimal SEO performance, ensuring maximum visibility and engagement. With MongoDB, we achieved data flexibility and scalability, accommodating future growth seamlessly.In the backend, we leveraged the power of Node.js and Express to create a robust and highly efficient server environment. Node.js, known for its event-driven, non-blocking I/O model, enabled us to handle concurrent connections and perform tasks with minimal latency. This allowed for quick response times, essential for an ecommerce platform.The backend stack, comprising Node.js, Express.js, and MongoDB, forms a powerful foundation for our ecommerce web app, offering scalability, speed, and flexibility to support business's growth and adapt to evolving demands",
+    desc: "Our dedicated team designed an ecommerce web app using a robust tech stack, including React.js, Next.js, Express, Node.js, and MongoDB. Following agile methodology and utilizing Jira boards, we ensured efficient project management, enabling rapid development and adaptability. Our solution empowers businesses with seamless online shopping experiences, intuitive navigation, and secure transactions, all backed by a scalable and efficient backend infrastructure.The use of Next.js allowed for lightning-fast page loading and optimal SEO performance, ensuring maximum visibility and engagement. With MongoDB, we achieved data flexibility and scalability, accommodating future growth seamlessly.In the backend, we leveraged the power of Node.js and Express to create a robust and highly efficient server environment. Node.js, known for its event-driven, non-blocking I/O model, enabled us to handle concurrent connections and perform tasks with minimal latency. This allowed for quick response times, essential for an ecommerce platform.The backend stack, comprising Node.js, Express.js, and MongoDB, forms a powerful foundation for our ecommerce web app, offering scalability, speed, and flexibility to support business's growth and adapt to evolving demands",
     doc: "",
     skills: [
       "React.js",
@@ -196,14 +196,15 @@ export const experiences = [
     role: "Frontend Developer",
     company: "Zognu Technologies",
     date: "Feb 2022 - Oct 2022",
-    desc: "I successfully completed a Frontend Developer internship from July 2021 to October 2022, where I honed my skills in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React JS. During this period, I leveraged these technologies to create compelling static websites, including e-commerce landing pages, showcasing my proficiency in web development.",
+    desc: "As a Front-End Developer specializing in React.js, I played a significant role in the development and enhancement of a dynamic e-commerce web application. Collaborated with the design team to translate UI/UX mockups into responsive and interactive web pages, maintaining consistency across the application.Implemented state management solutions, utilizing tools such as Redux, to efficiently manage the application's state and ensure a smooth flow of data throughout the user interface.Ensured a seamless experience across various devices by implementing responsive design principles, making the e-commerce platform accessible to users on desktops, tablets, and mobile devices. Collaborated with the back-end development team to integrate front-end components with server-side logic, ensuring real-time data synchronization and a cohesive end-to-end solution.",
     skills: [
       "HTML5",
       "CSS",
       "Bootstrap",
       "TailwindCSS",
       "Javascript",
-      "React.js"
+      "React.js",
+      "Node.js"
     ],
   },
   {
@@ -258,6 +259,19 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Barnd Factory",
+    date: "Oct 2023",
+    description:
+      "Streamline business with the powerful invoice and quotation generator app. Create professional invoices and quotes in minutes, with customizable templates and easy-to-use features. Simplify the billing process and improve productivity with this user-friendly app.",
+    image:
+      "https://ecom-web-app-landing-page-view.s3.eu-north-1.amazonaws.com/Screenshot+(77).png",
+    tags: ["React.js", "Reduxjs/Tookit", "HTML", "CSS", "fakestoreapi"],
+    category: "web app",
+    github: "https://github.com/msdian0007/ecom-redux/",
+    webapp: "https://msdian0007.github.io/ecom-redux/",
+  },
+  {
+    id: 1,
     title: "Doc.js",
     date: "Jan 2023",
     description:
@@ -270,7 +284,21 @@ export const projects = [
     webapp: "https://msdian0007.github.io/doc.js/",
   },
   {
-    id: 1,
+    id: 2,
+    title: "Keeper",
+    date: "Jan 2022",
+    description:
+      "Streamline business with the powerful invoice and quotation generator app. Create professional invoices and quotes in minutes, with customizable templates and easy-to-use features. Simplify the billing process and improve productivity with this user-friendly app.",
+    image:
+      "https://keeper-app-landing-page.s3.eu-north-1.amazonaws.com/Screenshot+(78).png",
+    tags: ["React.js", "Reduxjs/Tookit", "HTML", "CSS", "uuid", "font-awesome", "Context"],
+    category: "web app",
+    github: "https://github.com/msdian0007/keeper/",
+    webapp: "https://msdian0007.github.io/keeper/",
+  },
+
+  {
+    id: 3,
     title: "Simon Game",
     date: "jan 2022",
     description:
