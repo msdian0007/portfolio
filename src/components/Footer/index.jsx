@@ -85,6 +85,7 @@ const Copyright = styled.p`
 `;
 
 function Footer() {
+  const currentYear = new Date().getFullYear()
   return (
     <FooterContainer>
       <FooterWrapper>
@@ -103,7 +104,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Mohasin Attar. All rights reserved.
+          &copy; {currentYear} Mohasin Attar. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
