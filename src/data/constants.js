@@ -283,6 +283,26 @@ export const education = [
 export const projects = [
   {
     id: 6,
+    title: "Simon Game",
+    date: "Aug 2024",
+    description:
+      "Simon is a memory and pattern-recognition game that consists of four colored buttons. The game generates a sequence of button presses, and the player must replicate the sequence by pressing the buttons in the same order. As the game progresses, the sequences become longer and more complex, testing the player's memory and concentration. The goal is to see how many rounds of the sequence the player can successfully complete.",
+    image:
+      "https://publicly-access-files.s3.ap-south-1.amazonaws.com/simon-react.png",
+    tags: [
+      "React.js",
+      "HTML",
+      "CSS",
+      "TailwindCSS",
+      "react-context",
+      "gh-pages",
+    ],
+    category: "web app",
+    github: "https://github.com/msdian0007/simon-react",
+    webapp: "https://msdian0007.github.io/simon-react/",
+  },
+  {
+    id: 5,
     title: "Dahboard",
     date: "Aug 2024",
     description:
@@ -302,7 +322,7 @@ export const projects = [
     webapp: "https://msdian0007.github.io/Dashboard_UI/",
   },
   {
-    id: 5,
+    id: 4,
     title: "Chat App",
     date: "July 2024",
     description:
@@ -326,7 +346,7 @@ export const projects = [
     webapp: "https://msdian0007.github.io/chatApp/",
   },
   {
-    id: 4,
+    id: 3,
     title: "Barnd Factory",
     date: "Oct 2023",
     description:
@@ -339,7 +359,7 @@ export const projects = [
     webapp: "https://msdian0007.github.io/ecom-redux/",
   },
   {
-    id: 3,
+    id: 2,
     title: "Doc.js",
     date: "Jan 2023",
     description:
@@ -359,7 +379,7 @@ export const projects = [
     webapp: "https://msdian0007.github.io/doc.js/",
   },
   {
-    id: 2,
+    id: 1,
     title: "Keeper",
     date: "Jan 2022",
     description:
@@ -378,20 +398,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/msdian0007/keeper/",
     webapp: "https://msdian0007.github.io/keeper/",
-  },
-
-  {
-    id: 1,
-    title: "Simon Game",
-    date: "jan 2022",
-    description:
-      "Simon is a memory and pattern-recognition game that consists of four colored buttons. The game generates a sequence of button presses, and the player must replicate the sequence by pressing the buttons in the same order. As the game progresses, the sequences become longer and more complex, testing the player's memory and concentration. The goal is to see how many rounds of the sequence the player can successfully complete.",
-    image:
-      "https://publicly-access-files.s3.ap-south-1.amazonaws.com/simon-game-landing-page.png",
-    tags: ["HTML", "CSS", "Javascript", "jQuery"],
-    category: "web app",
-    github: "https://github.com/msdian0007/Simon-Game",
-    webapp: "https://msdian0007.github.io/Simon-Game/",
   },
 ];
 
