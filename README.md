@@ -1,5 +1,4 @@
 
-```markdown
 # Mohasin Mashak Attar - Portfolio
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, and experiences in web development.
@@ -50,4 +49,3 @@ If you have suggestions or improvements for my portfolio, feel free to fork the 
 ---
 
 Thank you for visiting my portfolio website!
-```
