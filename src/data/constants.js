@@ -282,6 +282,29 @@ export const education = [
 
 export const projects = [
   {
+    id: 7,
+    title: "RS Motors",
+    date: "Sep 2024",
+    description:
+      "This is a personal project built with Next.js and TypeScript for selling second-hand vehicles. It features a user interface with a vehicle gallery, a feed section with pagination, and an 'Interested' button that notifies the admin via email. The admin panel allows for adding new vehicles and managing inventory by marking vehicles as sold or unsold.",
+    image:
+      "https://publicly-access-files.s3.ap-south-1.amazonaws.com/rsMotorsLandingPage.png",
+    tags: [
+      "Next.js",
+      "TypeScript",
+      "MongoDB",
+      "AWS S3",
+      "NodeMailer",
+      "Axios",
+      "TailwindCSS",
+      "CSS",
+      "Vercel",
+    ],
+    category: "web app",
+    github: "https://github.com/msdian0007/rs_motors",
+    webapp: "https://rs-motors.vercel.app/",
+  },
+  {
     id: 6,
     title: "Simon Game",
     date: "Aug 2024",
