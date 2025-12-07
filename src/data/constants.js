@@ -11,7 +11,7 @@ export const Bio = {
     " of hands-on experience, I specialize in creating high-performance web applications and user-friendly interfaces. Let's connect to explore new opportunities in web development and tech innovation.",
   github: "https://github.com/msdian0007",
   resume:
-    "https://drive.google.com/file/d/1HUo3uLyzorruRBBIB1cJZPlR7hLo8fcK/view",
+    "https://drive.google.com/file/d/1xUCcpxCTRzgWGkJD1bYJe8ST6e9aO9TO/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mohasin-attar-7b6471121",
   twitter: "/",
   insta: "/",
