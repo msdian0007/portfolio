@@ -24,39 +24,39 @@ export const skills = [
     skills: [
       {
         name: "React.js",
-        image: "/images/skills/react.jpg",
+        image: "images/skills/react.jpg",
       },
       {
         name: "Redux Toolkit",
-        image: "/images/skills/redux.svg",
+        image: "images/skills/redux.svg",
       },
       {
         name: "Next.js",
-        image: "/images/skills/nextjs.jpg",
+        image: "images/skills/nextjs.jpg",
       },
       {
         name: "HTML5",
-        image: "/images/skills/html5.png",
+        image: "images/skills/html5.png",
       },
       {
         name: "CSS",
-        image: "/images/skills/css.png",
+        image: "images/skills/css.png",
       },
       {
         name: "Tailwind CSS",
-        image: "/images/skills/tailwind.jpeg",
+        image: "images/skills/tailwind.jpeg",
       },
       {
         name: "Material UI",
-        image: "/images/skills/material-ui.jpg",
+        image: "images/skills/material-ui.jpg",
       },
       {
         name: "JavaScript",
-        image: "/images/skills/javascript.jpg",
+        image: "images/skills/javascript.jpg",
       },
       {
         name: "TypeScript",
-        image: "/images/skills/typescript.jpg",
+        image: "images/skills/typescript.jpg",
       },
     ],
   },
@@ -65,35 +65,35 @@ export const skills = [
     skills: [
       {
         name: "Node.js",
-        image: "/images/skills/node-js.svg",
+        image: "images/skills/node-js.svg",
       },
       {
         name: "Express.js",
-        image: "/images/skills/express.png",
+        image: "images/skills/express.png",
       },
       {
         name: "MongoDB",
-        image: "/images/skills/mongodb.svg",
+        image: "images/skills/mongodb.svg",
       },
       {
         name: "MySQL",
-        image: "/images/skills/mysql.svg",
+        image: "images/skills/mysql.svg",
       },
       {
         name: "JWT",
-        image: "/images/skills/jwt.png",
+        image: "images/skills/jwt.png",
       },
       {
         name: "Socket.io",
-        image: "/images/skills/socket-io.png",
+        image: "images/skills/socket-io.png",
       },
       {
         name: "Java",
-        image: "/images/skills/java.png",
+        image: "images/skills/java.png",
       },
       {
         name: "Firebase",
-        image: "/images/skills/firebase.svg",
+        image: "images/skills/firebase.svg",
       },
     ],
   },
@@ -102,35 +102,35 @@ export const skills = [
     skills: [
       {
         name: "Git",
-        image: "/images/skills/git.png",
+        image: "images/skills/git.png",
       },
       {
         name: "GitHub",
-        image: "/images/skills/github.png",
+        image: "images/skills/github.png",
       },
       {
         name: "Postman",
-        image: "/images/skills/postman.png",
+        image: "images/skills/postman.png",
       },
       {
         name: "Jira",
-        image: "/images/skills/jira.jpg",
+        image: "images/skills/jira.jpg",
       },
       {
         name: "Atlassian",
-        image: "/images/skills/atlassian.png",
+        image: "images/skills/atlassian.png",
       },
       {
         name: "VS Code",
-        image: "/images/skills/vs-code.jpg",
+        image: "images/skills/vs-code.jpg",
       },
       {
         name: "Eclipse",
-        image: "/images/skills/eclipse.png",
+        image: "images/skills/eclipse.png",
       },
       {
         name: "Render",
-        image: "/images/skills/render.png",
+        image: "images/skills/render.png",
       },
     ],
   },
